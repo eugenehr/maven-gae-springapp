@@ -1,8 +1,5 @@
-App Engine Java Application
-Copyright (C) 2010-2012 Google Inc.
-
 ## Skeleton application for use with App Engine Java.
-## Uses App Engine, Spring and JPA. 
+## Uses App Engine, Maven, Spring MVC and JPA. 
 
 Requires [Apache Maven](http://maven.apache.org) 3.0 or greater, and JDK 6+ in order to run.
 
